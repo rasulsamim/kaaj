@@ -1,0 +1,102 @@
+﻿
+@font-face {
+  font-family: 'BKoodakBold';
+  src: url('font/BKoodakBold.eot?#') format('eot'),  /* IE6–8 */
+       url('font/BKoodakBold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('font/BKoodakBold.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+@font-face {
+  font-family: 'BBadr';
+  src: url('font/BBadr.eot?#') format('eot'),  /* IE6–8 */
+       url('font/BBadr.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('font/BBadr.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+@font-face {
+  font-family: 'BBardiya';
+  src: url('font/BBardiya.eot?#') format('eot'),  /* IE6–8 */
+       url('font/BBardiya.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('font/BBardiya.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+@font-face {
+  font-family: 'BDavat';
+  src: url('font/BDavat.eot?#') format('eot'),  /* IE6–8 */
+       url('font/BDavat.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('font/BDavat.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: 'BYekan';
+  
+  src: url('font/BYekan.eot?#') format('eot'),  /* IE6–8 */
+       url('font/BYekan.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('font/BYekan.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: 'BTitrBold';
+  src: url('font/BTitrBold.eot?#') format('eot'),  /* IE6–8 */
+       url('font/BTitrBold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('font/BTitrBold.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+
+
+
+@font-face {
+    font-family: 'BTitrTGEBold';
+    src: url('font/BTitrTGEBold.eot');
+    src: url('font/BTitrTGEBold.eot?#iefix') format('embedded-opentype'),
+         url('font/BTitrTGEBold.woff') format('woff'),
+         url('font/BTitrTGEBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BTraffic';
+    src: url('font/BTraffic.eot');
+    src: url('font/BTraffic.eot?#iefix') format('embedded-opentype'),
+         url('font/BTraffic.woff') format('woff'),
+         url('font/BTraffic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DroidNaskhBold';
+    src: url('font/DroidNaskh-Bold.eot');
+    src: url('font/DroidNaskh-Bold.eot?#iefix') format('embedded-opentype'),
+         url('font/DroidNaskh-Bold.woff') format('woff'),
+		 url('font/DroidNaskh-Bold.woff') format('woff2'),
+         url('font/DroidNaskh-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'WYekan';
+    src: url('font/yekan-webfont.eot');
+    src: url('font/yekan-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/yekan-webfont.woff') format('woff'),
+         url('font/yekan-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'irannastaliqregular';
+    src: url('font/irannastaliq.eot');
+    src: url('font/irannastaliq.eot?#iefix') format('embedded-opentype'),
+         url('font/irannastaliq.woff2') format('woff2'),
+         url('font/irannastaliq.woff') format('woff'),
+         url('font/irannastaliq.ttf') format('truetype'),
+         url('font/irannastaliq.svg#irannastaliqregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.a
+{
+    line-height:12px;
+} 

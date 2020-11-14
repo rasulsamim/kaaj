@@ -1,0 +1,102 @@
+﻿
+@font-face {
+  font-family: 'BKoodakBold';
+  src: url('farsi/BKoodakBold.eot?#') format('eot'),  /* IE6–8 */
+       url('farsi/BKoodakBold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('farsi/BKoodakBold.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+@font-face {
+  font-family: 'BBadr';
+  src: url('farsi/BBadr.eot?#') format('eot'),  /* IE6–8 */
+       url('farsi/BBadr.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('farsi/BBadr.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+@font-face {
+  font-family: 'BBardiya';
+  src: url('farsi/BBardiya.eot?#') format('eot'),  /* IE6–8 */
+       url('farsi/BBardiya.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('farsi/BBardiya.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+@font-face {
+  font-family: 'BDavat';
+  src: url('farsi/BDavat.eot?#') format('eot'),  /* IE6–8 */
+       url('farsi/BDavat.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('farsi/BDavat.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: 'BYekan';
+  
+  src: url('farsi/BYekan.eot?#') format('eot'),  /* IE6–8 */
+       url('farsi/BYekan.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('farsi/BYekan.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: 'BTitrBold';
+  src: url('farsi/BTitrBold.eot?#') format('eot'),  /* IE6–8 */
+       url('farsi/BTitrBold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('farsi/BTitrBold.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+
+
+
+@font-face {
+    font-family: 'BTitrTGEBold';
+    src: url('farsi/BTitrTGEBold.eot');
+    src: url('farsi/BTitrTGEBold.eot?#iefix') format('embedded-opentype'),
+         url('farsi/BTitrTGEBold.woff') format('woff'),
+         url('farsi/BTitrTGEBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BTraffic';
+    src: url('farsi/BTraffic.eot');
+    src: url('farsi/BTraffic.eot?#iefix') format('embedded-opentype'),
+         url('farsi/BTraffic.woff') format('woff'),
+         url('farsi/BTraffic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DroidNaskhBold';
+    src: url('farsi/DroidNaskh-Bold.eot');
+    src: url('farsi/DroidNaskh-Bold.eot?#iefix') format('embedded-opentype'),
+         url('farsi/DroidNaskh-Bold.woff') format('woff'),
+		 url('farsi/DroidNaskh-Bold.woff') format('woff2'),
+         url('farsi/DroidNaskh-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'WYekan';
+    src: url('farsi/yekan-webfont.eot');
+    src: url('farsi/yekan-webfont.eot?#iefix') format('embedded-opentype'),
+         url('farsi/yekan-webfont.woff') format('woff'),
+         url('farsi/yekan-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'irannastaliqregular';
+    src: url('farsi/irannastaliq.eot');
+    src: url('farsi/irannastaliq.eot?#iefix') format('embedded-opentype'),
+         url('farsi/irannastaliq.woff2') format('woff2'),
+         url('farsi/irannastaliq.woff') format('woff'),
+         url('farsi/irannastaliq.ttf') format('truetype'),
+         url('farsi/irannastaliq.svg#irannastaliqregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.a
+{
+    line-height:12px;
+} 
